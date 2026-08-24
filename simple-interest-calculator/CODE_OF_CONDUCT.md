@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-
+Project maintainers are responsible for clarifying the standards of acceptable behavior
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
